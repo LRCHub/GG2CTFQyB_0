@@ -1,0 +1,57 @@
+# ONE OK ROCK – Bon Voyage
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:45.70] It took some time to realize
+[00:48.12] That things are not getting better
+[00:50.43] We should know, we should know
+[00:52.74] It's over
+[00:57.24] 
+[00:54.84] You're seeing the other side of me
+[00:57.01] We tried to weather the weather
+[00:59.26] We should know, we should know
+[01:01.58] That night's gone
+[01:10.08] 
+[01:03.46] 熱が二つを引き合わせ
+[01:07.59] 冷めてしまえば
+[01:10.78] Never getting better
+[01:20.78] 
+[01:12.25] I know things won't change
+[01:14.48] I'm saying bon voyage
+[01:16.74] Down to the line
+[01:17.82] Down to the line
+[01:19.02] It's time to sail
+[01:27.52] 
+[01:21.08] We're stuck on repeat
+[01:23.07] I'm saying bon voyage
+[01:25.44] Down to the line
+[01:26.66] Down to the line
+[01:27.85] I'm letting go
+[01:34.85] 
+[01:29.94] I hope you find another life
+[01:31.90] Maybe you'll start getting better
+[01:34.06] We should know, we should know
+[01:36.31] It's over
+[01:40.81] 
+[01:38.47] I miss the days I spent alone
+[01:40.63] Before we lived together
+[01:42.78] We should know, we should know
+[01:45.11] That time's gone
+[01:53.11] 
+[01:47.24] 熱が二つを引き合わせ
+[01:51.22] 冷めてしまえば
+[01:54.41] Never getting better
+[02:04.41] 
+[01:55.96] I know things won't change
+[01:58.26] I'm saying bon voyage
+[02:00.45] Down to the line
+[02:01.51] Down to the line
+[02:02.77] It's time to sail
+[02:11.27] 
+[02:04.72] We're stuck on repeat
+[02:06.79] I'm saying bon voyage
+[02:09.13] Down to the line
+[02:10.22] Down to the line
+[02:11.47] I'm letting go
+```
