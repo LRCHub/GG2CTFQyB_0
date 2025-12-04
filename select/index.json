@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Bon Voyage",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T13:15:35.614158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bon Voyage (feat. Nina)",
+      "artist": "Deichkind feat. Nina Tenge",
+      "has_synced": true,
+      "path": "select/01_Bon_Voyage_(feat._Nina)_Deichkind_feat._Nina_Tenge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bon Voyage (feat. Nina)",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/02_Bon_Voyage_(feat._Nina)_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One of These Winters Will Take Me (feat. Bon Voyage Organisation)",
+      "artist": "Cola Boyy",
+      "has_synced": true,
+      "path": "select/03_One_of_These_Winters_Will_Take_Me_(feat._Bon_Voyage_Organisation)_Cola_Boyy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bon Voyage",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/04_Bon_Voyage_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bon Voyage Vagabond",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/05_Bon_Voyage_Vagabond_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bon Voyage",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Bon_Voyage_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BON VOYAGE!",
+      "artist": "BON-BON BLANCO",
+      "has_synced": false,
+      "path": "select/07_BON_VOYAGE!_BON-BON_BLANCO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Interlude 〜Bon Voyage〜",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/08_Interlude_〜Bon_Voyage〜_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Interlude ~Bon Voyage~",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/09_Interlude_~Bon_Voyage~_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bon Voyage",
+      "artist": "Kim Carnes",
+      "has_synced": false,
+      "path": "select/10_Bon_Voyage_Kim_Carnes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bon Voyage",
+      "artist": "DROELOE",
+      "has_synced": true,
+      "path": "select/11_Bon_Voyage_DROELOE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bon Voyage",
+      "artist": "George Winston",
+      "has_synced": false,
+      "path": "select/12_Bon_Voyage_George_Winston.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bon Voyage",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Bon_Voyage_ONE_OK_ROCK.txt"
+    }
+  ]
+}
